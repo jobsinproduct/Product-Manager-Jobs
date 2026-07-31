@@ -1,0 +1,70 @@
+<!-- prettier-ignore-start -->
+# Product Manager Jobs — 2026
+
+<sub><small>Last updated: Jul 31, 2026 at 15:40 UTC</small></sub>
+
+Daily product management jobs curated by Jobs in Product.
+Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
+
+Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs) for the full live board, filtering, and employer details.
+
+## Current Openings
+
+| Company | Position | Location | Workplace | Type | Date |
+| ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Figma](https://jobsinproduct.com/jobs/figma-product-manager-acquisition-9751b157?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Acquisition](https://jobsinproduct.com/jobs/figma-product-manager-acquisition-9751b157?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Full Time | Jul 22 |
+| **[Stripe](https://jobsinproduct.com/jobs/stripe-product-manager-e-invoicing-1c7e5c65?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, E-Invoicing](https://jobsinproduct.com/jobs/stripe-product-manager-e-invoicing-1c7e5c65?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Dublin, Ireland | On Site | Full Time | Jul 15 |
+| **[Datadog](https://jobsinproduct.com/jobs/datadog-product-manager-ii-developer-engagement-296974e8?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager II - Developer Engagement](https://jobsinproduct.com/jobs/datadog-product-manager-ii-developer-engagement-296974e8?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, New York, USA | On Site | Full Time | Jul 14 |
+| **[Datadog](https://jobsinproduct.com/jobs/datadog-senior-product-manager-agent-integrations-659c1a75?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager - Agent Integrations](https://jobsinproduct.com/jobs/datadog-senior-product-manager-agent-integrations-659c1a75?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, New York, USA | On Site | Full Time | Jun 26 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-director-product-management-shopping-and-offers-2d9fe5e6?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Director, Product Management (Shopping & Offers)](https://jobsinproduct.com/jobs/affirm-director-product-management-shopping-and-offers-2d9fe5e6?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote US | Remote | Full Time | Jun 26 |
+| **[Match Group](https://jobsinproduct.com/jobs/match-group-lead-product-manager-3b539b0a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Lead Product Manager](https://jobsinproduct.com/jobs/match-group-lead-product-manager-3b539b0a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Dallas, Texas | On Site | Full Time | Jun 23 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-app-platform-and-experience-3a22b341?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, App Platform & Experience](https://jobsinproduct.com/jobs/affirm-staff-product-manager-app-platform-and-experience-3a22b341?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote US | Remote | Full Time | Jun 18 |
+| **[Stripe](https://jobsinproduct.com/jobs/stripe-product-lead-data-products-5a038cb8?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Lead, Data Products](https://jobsinproduct.com/jobs/stripe-product-lead-data-products-5a038cb8?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York City, San Francisco | On Site | Full Time | Jun 18 |
+| **[Discord](https://jobsinproduct.com/jobs/discord-senior-product-manager-scaled-abuse-49b6173f?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Scaled Abuse](https://jobsinproduct.com/jobs/discord-senior-product-manager-scaled-abuse-49b6173f?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco Bay Area | On Site | Full Time | Jun 8 |
+| **[Datadog](https://jobsinproduct.com/jobs/datadog-product-manager-ii-ai-and-data-security-e18f1bae?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager II, AI & Data Security](https://jobsinproduct.com/jobs/datadog-product-manager-ii-ai-and-data-security-e18f1bae?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Boston, Massachusetts, USA; New York, New York, USA | On Site | Full Time | Jun 4 |
+| **[Stripe](https://jobsinproduct.com/jobs/stripe-staff-product-manager-cards-monetization-c2aae993?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Cards Monetization](https://jobsinproduct.com/jobs/stripe-staff-product-manager-cards-monetization-c2aae993?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Seattle, San Francisco, New York, US - Remote | Remote | Full Time | Jun 3 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-us-remote-ad951df5?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| US \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-us-remote-ad951df5?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | United States (Remote) | Remote | Full Time | May 28 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-uk-remote-8ee2aef9?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| UK \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-uk-remote-8ee2aef9?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | United Kingdom (Remote) | Remote | Full Time | May 28 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-sweden-remote-5cf9d75e?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| Sweden \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-sweden-remote-5cf9d75e?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Sweden (Remote) | Remote | Full Time | May 28 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-spain-remote-3b51b31c?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| Spain \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-spain-remote-3b51b31c?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Spain (Remote) | Remote | Full Time | May 28 |
+| **[Grafana Labs](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-canada-remote-5e0d16d5?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Infrastructure Observability \| Canada \| Remote](https://jobsinproduct.com/jobs/grafana-labs-senior-product-manager-infrastructure-observability-canada-remote-5e0d16d5?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Canada (Remote) | Remote | Full Time | May 28 |
+| **[Stripe](https://jobsinproduct.com/jobs/stripe-product-manager-growth-ai-outreach-motion-add31407?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Growth AI Outreach Motion](https://jobsinproduct.com/jobs/stripe-product-manager-growth-ai-outreach-motion-add31407?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Toronto, Remote- Canada | Remote | Full Time | May 19 |
+| **[Figma](https://jobsinproduct.com/jobs/figma-product-manager-ai-growth-448fcda0?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, AI Growth](https://jobsinproduct.com/jobs/figma-product-manager-ai-growth-448fcda0?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Full Time | May 6 |
+| **[Datadog](https://jobsinproduct.com/jobs/datadog-director-product-management-ai-observability-438642f7?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Director, Product Management - AI Observability](https://jobsinproduct.com/jobs/datadog-director-product-management-ai-observability-438642f7?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, New York, USA | On Site | Full Time | Apr 9 |
+| **[Datadog](https://jobsinproduct.com/jobs/datadog-senior-product-manager-data-agent-9bfca56c?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager - Data Agent](https://jobsinproduct.com/jobs/datadog-senior-product-manager-data-agent-9bfca56c?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, New York, USA | On Site | Full Time | Apr 7 |
+| **[Reddit](https://jobsinproduct.com/jobs/reddit-senior-product-manager-gtm-automation-653f1cf2?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, GTM Automation](https://jobsinproduct.com/jobs/reddit-senior-product-manager-gtm-automation-653f1cf2?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, CA | On Site | Full Time | Mar 30 |
+| **[Datadog](https://jobsinproduct.com/jobs/datadog-senior-product-manager-network-path-0d0ebd48?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager - Network Path](https://jobsinproduct.com/jobs/datadog-senior-product-manager-network-path-0d0ebd48?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, New York, USA | On Site | Full Time | Mar 27 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-shopping-experiences-c0acdaef?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Shopping Experiences](https://jobsinproduct.com/jobs/affirm-senior-product-manager-shopping-experiences-c0acdaef?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote US | Remote | Full Time | Feb 11 |
+
+---
+
+**Current Stats:** 23 jobs | 43% remote | 8 companies | 0 salary ranges listed
+_Note: Stats are based on the current generated GitHub snapshot._
+
+## Archive
+
+- [2026-07-31 archive](archive/2026-07-31.md)
+
+## About This Repository
+
+This repository tracks **Product Manager Jobs** from Jobs in Product. The README is regenerated daily so GitHub can act as a fresh, indexable distribution surface for job seekers searching inside this niche.
+
+## For Job Seekers
+
+- Star this repository to see updates in your GitHub feed.
+- Check the archive for recent hiring trends.
+- Use [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs) when you want the complete searchable job board.
+
+## For Employers
+
+Reach candidates already searching for **Product Manager Jobs** by posting on [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
+
+## Related Job Repositories
+
+- [Product Design Jobs](https://github.com/jobsinproduct/Product-Design-Jobs)
+- [Remote Product Jobs](https://github.com/jobsinproduct/Remote-Product-Jobs)
+
+---
+
+**Made by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)**
+<!-- prettier-ignore-end -->
