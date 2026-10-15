@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Notion](https://jobsinproduct.com/jobs/notion-product-manager-connections-f658f04a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Connections](https://jobsinproduct.com/jobs/notion-product-manager-connections-f658f04a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, California | On Site | Full Time | Oct 14 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote UK | Remote | Full Time | Oct 13 |
+| **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-cloudflare-workers-05614381?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Cloudflare Workers](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-cloudflare-workers-05614381?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid; In-Office | On Site | Full Time | Oct 13 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-0bcfe0d8?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Consumer Payments](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-0bcfe0d8?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote Canada | Remote | Full Time | Oct 8 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-a6534aac?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Consumer Payments](https://jobsinproduct.com/jobs/affirm-senior-product-manager-consumer-payments-a6534aac?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote US | Remote | Full Time | Oct 8 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-early-career-associate-product-manager-2027-8406aa93?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Early Career, Associate Product Manager (2027)](https://jobsinproduct.com/jobs/figma-early-career-associate-product-manager-2027-8406aa93?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, CA | On Site | Full Time | Oct 7 |
@@ -36,12 +39,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 21 jobs | 48% remote | 7 companies | 0 salary ranges listed
+**Current Stats:** 24 jobs | 46% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-13 archive](archive/2026-10-13.md)
+- [2026-10-15 archive](archive/2026-10-15.md)
 
 ## About This Repository
 
