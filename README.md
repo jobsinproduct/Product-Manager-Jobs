@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -35,16 +35,15 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-director-of-product-management-fintech-2e5a0304?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Director of Product Management, Fintech](https://jobsinproduct.com/jobs/cloudflare-director-of-product-management-fintech-2e5a0304?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid | On Site | Full Time | Aug 28 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-1d9cd1b4?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Checkout](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-1d9cd1b4?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote Canada | Remote | Full Time | Aug 26 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-ab8a110a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Checkout](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-ab8a110a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote US | Remote | Full Time | Aug 26 |
-| **[Figma](https://jobsinproduct.com/jobs/figma-manager-product-management-roundtripping-london-united-kingdom-b68242d2?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Manager, Product Management - Roundtripping (London, United Kingdom)](https://jobsinproduct.com/jobs/figma-manager-product-management-roundtripping-london-united-kingdom-b68242d2?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | London, England | On Site | Full Time | Aug 21 |
 
 ---
 
-**Current Stats:** 24 jobs | 46% remote | 8 companies | 0 salary ranges listed
+**Current Stats:** 23 jobs | 48% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-15 archive](archive/2026-10-15.md)
+- [2026-10-20 archive](archive/2026-10-20.md)
 
 ## About This Repository
 
