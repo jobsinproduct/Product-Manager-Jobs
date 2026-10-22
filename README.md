@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-youth-355ce99c?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Youth](https://jobsinproduct.com/jobs/reddit-staff-product-manager-youth-355ce99c?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote - United States | Remote | Full Time | Oct 20 |
 | **[Notion](https://jobsinproduct.com/jobs/notion-product-manager-connections-f658f04a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Connections](https://jobsinproduct.com/jobs/notion-product-manager-connections-f658f04a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, California | On Site | Full Time | Oct 14 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote UK | Remote | Full Time | Oct 13 |
 | **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-cloudflare-workers-05614381?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Cloudflare Workers](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-cloudflare-workers-05614381?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid; In-Office | On Site | Full Time | Oct 13 |
@@ -33,17 +34,15 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-enterprise-1eb54730?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Enterprise](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-enterprise-1eb54730?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid | On Site | Full Time | Sep 1 |
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-ads-formats-76e8e902?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Ads Formats](https://jobsinproduct.com/jobs/reddit-staff-product-manager-ads-formats-76e8e902?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote - United States | Remote | Full Time | Aug 31 |
 | **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-director-of-product-management-fintech-2e5a0304?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Director of Product Management, Fintech](https://jobsinproduct.com/jobs/cloudflare-director-of-product-management-fintech-2e5a0304?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid | On Site | Full Time | Aug 28 |
-| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-1d9cd1b4?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Checkout](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-1d9cd1b4?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote Canada | Remote | Full Time | Aug 26 |
-| **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-ab8a110a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Checkout](https://jobsinproduct.com/jobs/affirm-senior-product-manager-checkout-ab8a110a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote US | Remote | Full Time | Aug 26 |
 
 ---
 
-**Current Stats:** 23 jobs | 48% remote | 8 companies | 0 salary ranges listed
+**Current Stats:** 22 jobs | 45% remote | 8 companies | 2 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-20 archive](archive/2026-10-20.md)
+- [2026-10-22 archive](archive/2026-10-22.md)
 
 ## About This Repository
 
