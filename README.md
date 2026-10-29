@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2026 at 18:43 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-group-product-manager-5bceaa81?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Group Product Manager](https://jobsinproduct.com/jobs/affirm-group-product-manager-5bceaa81?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote US | Remote | Full Time | Oct 23 |
+| **[Robinhood](https://jobsinproduct.com/jobs/robinhood-staff-product-manager-canada-expansion-7f298bb7?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Canada Expansion](https://jobsinproduct.com/jobs/robinhood-staff-product-manager-canada-expansion-7f298bb7?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Toronto, Canada | On Site | Full Time | Oct 22 |
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-youth-355ce99c?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Youth](https://jobsinproduct.com/jobs/reddit-staff-product-manager-youth-355ce99c?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote - United States | Remote | Full Time | Oct 20 |
 | **[Notion](https://jobsinproduct.com/jobs/notion-product-manager-connections-f658f04a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Connections](https://jobsinproduct.com/jobs/notion-product-manager-connections-f658f04a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, California | On Site | Full Time | Oct 14 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager](https://jobsinproduct.com/jobs/affirm-senior-product-manager-8cd81a6a?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote UK | Remote | Full Time | Oct 13 |
@@ -30,19 +32,15 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-senior-product-manager-go-to-market-systems-22cfea6b?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Go-To-Market Systems](https://jobsinproduct.com/jobs/reddit-senior-product-manager-go-to-market-systems-22cfea6b?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA | On Site | Full Time | Sep 18 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-staff-product-manager-prediction-markets-f38de6ee?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager - Prediction Markets](https://jobsinproduct.com/jobs/robinhood-staff-product-manager-prediction-markets-f38de6ee?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Menlo Park, CA; New York, NY | On Site | Full Time | Sep 18 |
 | **[Duolingo](https://jobsinproduct.com/jobs/duolingo-senior-product-manager-learning-6a3872dd?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Learning](https://jobsinproduct.com/jobs/duolingo-senior-product-manager-learning-6a3872dd?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, NY | On Site | Full Time | Sep 17 |
-| **[Robinhood](https://jobsinproduct.com/jobs/robinhood-associate-product-manager-new-grad-7a92e300?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Associate Product Manager (New Grad)](https://jobsinproduct.com/jobs/robinhood-associate-product-manager-new-grad-7a92e300?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Menlo Park, CA; New York, NY | On Site | Full Time | Sep 14 |
-| **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-enterprise-1eb54730?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Enterprise](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-enterprise-1eb54730?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid | On Site | Full Time | Sep 1 |
-| **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-ads-formats-76e8e902?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Ads Formats](https://jobsinproduct.com/jobs/reddit-staff-product-manager-ads-formats-76e8e902?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote - United States | Remote | Full Time | Aug 31 |
-| **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-director-of-product-management-fintech-2e5a0304?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Director of Product Management, Fintech](https://jobsinproduct.com/jobs/cloudflare-director-of-product-management-fintech-2e5a0304?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid | On Site | Full Time | Aug 28 |
 
 ---
 
-**Current Stats:** 22 jobs | 45% remote | 8 companies | 2 salary ranges listed
+**Current Stats:** 20 jobs | 50% remote | 8 companies | 3 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-22 archive](archive/2026-10-22.md)
+- [2026-10-29 archive](archive/2026-10-29.md)
 
 ## About This Repository
 
