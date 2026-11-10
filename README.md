@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Nov 9, 2026 at 22:17 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2026 at 19:41 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Robinhood](https://jobsinproduct.com/jobs/robinhood-senior-product-manager-paid-marketing-a3f6608e?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Paid Marketing](https://jobsinproduct.com/jobs/robinhood-senior-product-manager-paid-marketing-a3f6608e?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Bellevue, WA; Menlo Park, CA; New York, NY | On Site | Full Time | Nov 9 |
 | **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-signals-and-data-products-5a513c46?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Signals & Data Products](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-signals-and-data-products-5a513c46?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid; In-Office | On Site | Full Time | Nov 4 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-manager-collaboration-tools-717a3e78?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Collaboration Tools](https://jobsinproduct.com/jobs/figma-product-manager-collaboration-tools-717a3e78?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Full Time | Nov 2 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-product-manager-regulatory-e88eb831?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Regulatory](https://jobsinproduct.com/jobs/robinhood-product-manager-regulatory-e88eb831?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Toronto, Canada | On Site | Full Time | Nov 2 |
@@ -34,12 +35,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 19 jobs | 53% remote | 8 companies | 5 salary ranges listed
+**Current Stats:** 20 jobs | 50% remote | 8 companies | 5 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-09 archive](archive/2026-11-09.md)
+- [2026-11-10 archive](archive/2026-11-10.md)
 
 ## About This Repository
 
