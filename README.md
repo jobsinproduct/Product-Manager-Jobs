@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Nov 11, 2026 at 19:33 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -13,7 +13,9 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
 | **[Notion](https://jobsinproduct.com/jobs/notion-product-design-intern-summer-2027-620ed660?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Design Intern (Summer 2027)](https://jobsinproduct.com/jobs/notion-product-design-intern-summer-2027-620ed660?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, New York | On Site | intern | Nov 10 |
+| **[Spotify](https://jobsinproduct.com/jobs/spotify-senior-product-manager-subscriptions-freemium-e114b6fb?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager — Subscriptions (Freemium)](https://jobsinproduct.com/jobs/spotify-senior-product-manager-subscriptions-freemium-e114b6fb?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | London | On Site | Full Time | Nov 10 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-senior-product-manager-paid-marketing-a3f6608e?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Paid Marketing](https://jobsinproduct.com/jobs/robinhood-senior-product-manager-paid-marketing-a3f6608e?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Bellevue, WA; Menlo Park, CA; New York, NY | On Site | Full Time | Nov 9 |
+| **[Spotify](https://jobsinproduct.com/jobs/spotify-product-designer-2b07b584?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Designer](https://jobsinproduct.com/jobs/spotify-product-designer-2b07b584?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Stockholm | On Site | Full Time | Nov 4 |
 | **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-signals-and-data-products-5a513c46?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Signals & Data Products](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-signals-and-data-products-5a513c46?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid; In-Office | On Site | Full Time | Nov 4 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-manager-collaboration-tools-717a3e78?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Collaboration Tools](https://jobsinproduct.com/jobs/figma-product-manager-collaboration-tools-717a3e78?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Full Time | Nov 2 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-product-manager-regulatory-e88eb831?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Regulatory](https://jobsinproduct.com/jobs/robinhood-product-manager-regulatory-e88eb831?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Toronto, Canada | On Site | Full Time | Nov 2 |
@@ -36,12 +38,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 21 jobs | 48% remote | 8 companies | 5 salary ranges listed
+**Current Stats:** 23 jobs | 43% remote | 8 companies | 5 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-11 archive](archive/2026-11-11.md)
+- [2026-11-12 archive](archive/2026-11-12.md)
 
 ## About This Repository
 
