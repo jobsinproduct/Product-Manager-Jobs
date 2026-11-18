@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Nov 16, 2026 at 21:58 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2026 at 20:27 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -12,7 +12,11 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-it-product-manager-a8eb752b?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[IT Product Manager](https://jobsinproduct.com/jobs/affirm-it-product-manager-a8eb752b?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote Canada | Remote | Full Time | Nov 17 |
+| **[Affirm](https://jobsinproduct.com/jobs/affirm-it-product-manager-b3899c8b?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[IT Product Manager](https://jobsinproduct.com/jobs/affirm-it-product-manager-b3899c8b?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote US | Remote | Full Time | Nov 17 |
+| **[Robinhood](https://jobsinproduct.com/jobs/robinhood-staff-product-manager-prediction-markets-7dd2d907?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Prediction Markets](https://jobsinproduct.com/jobs/robinhood-staff-product-manager-prediction-markets-7dd2d907?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Menlo Park, CA; New York, NY | On Site | Full Time | Nov 17 |
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-product-manager-ecosystem-relevance-30b2e636?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Ecosystem Relevance](https://jobsinproduct.com/jobs/reddit-product-manager-ecosystem-relevance-30b2e636?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote - United States | Remote | Full Time | Nov 12 |
+| **[Spotify](https://jobsinproduct.com/jobs/spotify-vp-head-of-product-advertising-dd37e180?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[VP, Head of Product - Advertising](https://jobsinproduct.com/jobs/spotify-vp-head-of-product-advertising-dd37e180?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, NY | On Site | Full Time | Nov 10 |
 | **[Notion](https://jobsinproduct.com/jobs/notion-product-design-intern-summer-2027-620ed660?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Design Intern (Summer 2027)](https://jobsinproduct.com/jobs/notion-product-design-intern-summer-2027-620ed660?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | New York, New York | On Site | intern | Nov 10 |
 | **[Spotify](https://jobsinproduct.com/jobs/spotify-senior-product-manager-subscriptions-freemium-e114b6fb?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager — Subscriptions (Freemium)](https://jobsinproduct.com/jobs/spotify-senior-product-manager-subscriptions-freemium-e114b6fb?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | London | On Site | Full Time | Nov 10 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-senior-product-manager-paid-marketing-a3f6608e?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Paid Marketing](https://jobsinproduct.com/jobs/robinhood-senior-product-manager-paid-marketing-a3f6608e?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Bellevue, WA; Menlo Park, CA; New York, NY | On Site | Full Time | Nov 9 |
@@ -39,12 +43,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 24 jobs | 46% remote | 8 companies | 5 salary ranges listed
+**Current Stats:** 28 jobs | 46% remote | 8 companies | 5 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-16 archive](archive/2026-11-16.md)
+- [2026-11-18 archive](archive/2026-11-18.md)
 
 ## About This Repository
 
