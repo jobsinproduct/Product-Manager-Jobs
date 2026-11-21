@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2026 at 19:09 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -38,16 +38,15 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Figma](https://jobsinproduct.com/jobs/figma-early-career-associate-product-manager-2027-8406aa93?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Early Career, Associate Product Manager (2027)](https://jobsinproduct.com/jobs/figma-early-career-associate-product-manager-2027-8406aa93?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | San Francisco, CA | On Site | Full Time | Oct 7 |
 | **[Reddit](https://jobsinproduct.com/jobs/reddit-staff-product-manager-community-builders-fb6d4d75?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Community Builders](https://jobsinproduct.com/jobs/reddit-staff-product-manager-community-builders-fb6d4d75?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote - United States | Remote | Full Time | Oct 7 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-senior-product-designer-sports-0575fc94?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Designer, Sports](https://jobsinproduct.com/jobs/robinhood-senior-product-designer-sports-0575fc94?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Menlo Park, CA; New York, NY | On Site | Full Time | Oct 5 |
-| **[Affirm](https://jobsinproduct.com/jobs/affirm-staff-product-manager-comms-platform-b7d41200?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Staff Product Manager, Comms Platform](https://jobsinproduct.com/jobs/affirm-staff-product-manager-comms-platform-b7d41200?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote UK | Remote | Full Time | Oct 1 |
 
 ---
 
-**Current Stats:** 27 jobs | 41% remote | 8 companies | 5 salary ranges listed
+**Current Stats:** 26 jobs | 38% remote | 8 companies | 5 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-20 archive](archive/2026-11-20.md)
+- [2026-11-21 archive](archive/2026-11-21.md)
 
 ## About This Repository
 
