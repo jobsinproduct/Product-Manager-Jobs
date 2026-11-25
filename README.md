@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Manager Jobs — 2026
 
-<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
 
 Daily product management jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-product-manager-self-serve-growth-3b626638?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Product Manager, Self-serve Growth](https://jobsinproduct.com/jobs/cloudflare-product-manager-self-serve-growth-3b626638?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Hybrid | On Site | Full Time | Nov 24 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-senior-product-manager-brokerage-platform-8df47adb?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager, Brokerage Platform](https://jobsinproduct.com/jobs/robinhood-senior-product-manager-brokerage-platform-8df47adb?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Chicago, IL; Menlo Park, CA; New York, NY | On Site | Full Time | Nov 23 |
 | **[Spotify](https://jobsinproduct.com/jobs/spotify-senior-product-manager-free-and-premium-conversion-8f69eb41?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[Senior Product Manager - Free and Premium Conversion](https://jobsinproduct.com/jobs/spotify-senior-product-manager-free-and-premium-conversion-8f69eb41?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | London | On Site | Full Time | Nov 18 |
 | **[Affirm](https://jobsinproduct.com/jobs/affirm-it-product-manager-a8eb752b?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | **[IT Product Manager](https://jobsinproduct.com/jobs/affirm-it-product-manager-a8eb752b?utm_source=github&utm_medium=repo&utm_campaign=github-product-jobs)** | Remote Canada | Remote | Full Time | Nov 17 |
@@ -42,12 +43,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 27 jobs | 37% remote | 8 companies | 5 salary ranges listed
+**Current Stats:** 28 jobs | 36% remote | 8 companies | 5 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-24 archive](archive/2026-11-24.md)
+- [2026-11-25 archive](archive/2026-11-25.md)
 
 ## About This Repository
 
